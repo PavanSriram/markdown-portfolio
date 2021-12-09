@@ -1,1 +1,1 @@
-![Github link](https://github.com/PavanSriram)
+[Github link](https://github.com/PavanSriram)
